@@ -1,0 +1,1401 @@
+case;singular;plural
+n;eelmine;eelmised
+g;eelmise;eelmiste
+p;eelmist;eelmisi, eelmiseid
+ill;eelmisesse;eelmisisse, eelmistesse, eelmiseisse
+in;eelmises;eelmisis, eelmistes, eelmiseis
+el;eelmisest;eelmisist, eelmistest, eelmiseist
+all;eelmisele;eelmisile, eelmistele, eelmiseile
+ad;eelmisel;eelmisil, eelmistel, eelmiseil
+abl;eelmiselt;eelmisilt, eelmistelt, eelmiseilt
+tr;eelmiseks;eelmisiks, eelmisteks, eelmiseiks
+ter;eelmiseni;eelmisteni
+es;eelmisena;eelmistena
+ab;eelmiseta;eelmisteta
+kom;eelmisega;eelmistega
+n;eikeegi;
+g;eikellegi;
+p;eikedagi;
+ill;eikellessegi;
+in;eikelleski;
+el;eikellestki;
+all;eikellelegi;
+ad;eikellelgi;
+abl;eikelleltki;
+tr;eikellekski;
+ter;eikellenigi;
+es;eikellenagi;
+ab;eikelletagi;
+kom;eikellegagi;
+n;eimiski, eimiski;eimiskid
+g;eimillegi, eimiski;eimiskite
+p;eimidagi, eimiskit;eimiskeid
+ill;eimillessegi, eimiskisse;eimiskeisse, eimiskitesse
+in;eimilleski, eimiskis;eimiskeis, eimiskites
+el;eimillestki, eimiskist;eimiskeist, eimiskitest
+all;eimillelegi, eimiskile;eimiskeile, eimiskitele
+ad;eimillelgi, eimiskil;eimiskeil, eimiskitel
+abl;eimilleltki, eimiskilt;eimiskeilt, eimiskitelt
+tr;eimillekski, eimiskiks;eimiskeiks, eimiskiteks
+ter;eimillenigi, eimiskini;eimiskeini, eimiskiteni
+es;eimillenagi, eimiskina;eimiskeina, eimiskitena
+ab;eimilletagi, eimiskita;eimiskiteta
+kom;eimillegagi, eimiskiga;eimiskitega
+n;emb-kumb;
+g;emma-kumma;
+p;emba-kumba;
+ill;emmasse-kummasse;
+in;emmas-kummas;
+el;emmast-kummast;
+all;emmale-kummale;
+ad;emmal-kummal;
+abl;emmalt-kummalt;
+tr;emmaks-kummaks;
+ter;emma-kummani;
+es;emma-kummana;
+ab;emma-kummata;
+kom;emma-kummaga;
+n;enam, enam;enamad
+g;enama;enamate
+p;enamat;enamaid
+ill;enamasse;enamaisse, enamatesse
+in;enamas;enamais, enamates
+el;enamast;enamaist, enamatest
+all;enamale;enamaile, enamatele
+ad;enamal;enamail, enamatel
+abl;enamalt;enamailt, enamatelt
+tr;enamaks;enamaiks, enamateks
+ter;enamani;enamaini, enamateni
+es;enamana;enamaina, enamatena
+ab;enamata;enamateta
+kom;enamaga;enamatega
+n;enim;enimad
+g;enima;enimate
+p;enimat;enimaid
+ill;enimasse;enimaisse, enimatesse
+in;enimas;enimais, enimates
+el;enimast;enimaist, enimatest
+all;enimale;enimaile, enimatele
+ad;enimal;enimail, enimatel
+abl;enimalt;enimailt, enimatelt
+tr;enimaks;enimaiks, enimateks
+ter;enimani;enimaini, enimateni
+es;enimana;enimaina, enimatena
+ab;enimata;enimateta
+kom;enimaga;enimatega
+n;iga, iga;ead
+g;ea, iga;igade
+p;iga, iga, igat;igasid
+ill;easse, igasse;igadesse
+in;eas, igas;igades
+el;east, igast;igadest
+all;eale, igale;igadele
+ad;eal, igal;igadel
+abl;ealt, igalt;igadelt
+tr;eaks, igaks;igadeks
+ter;eani, igani;igadeni
+es;eana, igana;igadena
+ab;eata, igata;igadeta
+kom;eaga, igaga;igadega
+n;igasugune;igasugused
+g;igasuguse;igasuguste
+p;igasugust;igasuguseid
+ill;igasugusesse;igasugustesse, igasuguseisse
+in;igasuguses;igasugustes, igasuguseis
+el;igasugusest;igasugustest, igasuguseist
+all;igasugusele;igasugustele, igasuguseile
+ad;igasugusel;igasugustel, igasuguseil
+abl;igasuguselt;igasugustelt, igasuguseilt
+tr;igasuguseks;igasugusteks, igasuguseiks
+ter;igasuguseni;igasugusteni, igasuguseini
+es;igasugusena;igasugustena, igasuguseina
+ab;igasuguseta;igasugusteta
+kom;igasugusega;igasugustega
+n;igaüks;
+g;igaühe;
+p;igaüht, igaühte;
+ill;igaühesse;
+in;igaühes;
+el;igaühest;
+all;igaühele;
+ad;igaühel;
+abl;igaühelt;
+tr;igaüheks;
+ter;igaüheni;
+es;igaühena;
+ab;igaüheta;
+kom;igaühega;
+n;ise, ise, ise;ise
+g;enda, enese;endi, eneste
+p;end, ennast;endid
+ill;endasse, enesesse;endisse, enestesse
+in;endas, eneses;endis, enestes
+el;endast, enesest;endist, enestest
+all;endale, enesele;endile, enestele
+ad;endal, enesel;endil, enestel
+abl;endalt, eneselt;endilt, enestelt
+tr;endaks, eneseks;endiks, enesteks
+ter;endani, eneseni;endini, enesteni
+es;endana, enesena;endina, enestena
+ab;endata, eneseta;endita, enesteta
+kom;endaga, enesega;endiga, enestega
+n;isesugune;isesugused
+g;isesuguse;isesuguste
+p;isesugust;isesuguseid
+ill;isesugusesse;isesugustesse, isesuguseisse
+in;isesuguses;isesugustes, isesuguseis
+el;isesugusest;isesugustest, isesuguseist
+all;isesugusele;isesugustele, isesuguseile
+ad;isesugusel;isesugustel, isesuguseil
+abl;isesuguselt;isesugustelt, isesuguseilt
+tr;isesuguseks;isesugusteks, isesuguseiks
+ter;isesuguseni;isesugusteni, isesuguseini
+es;isesugusena;isesugustena, isesuguseina
+ab;isesuguseta;isesugusteta
+kom;isesugusega;isesugustega
+n;järgmine;järgmised
+g;järgmise;järgmiste
+p;järgmist;järgmisi, järgmiseid
+ill;järgmisesse;järgmisisse, järgmistesse, järgmiseisse
+in;järgmises;järgmisis, järgmistes, järgmiseis
+el;järgmisest;järgmisist, järgmistest, järgmiseist
+all;järgmisele;järgmisile, järgmistele, järgmiseile
+ad;järgmisel;järgmisil, järgmistel, järgmiseil
+abl;järgmiselt;järgmisilt, järgmistelt, järgmiseilt
+tr;järgmiseks;järgmisiks, järgmisteks, järgmiseiks
+ter;järgmiseni;järgmisteni
+es;järgmisena;järgmistena
+ab;järgmiseta;järgmisteta
+kom;järgmisega;järgmistega
+n;kee, keegi;keed
+g;kee, kellegi;keede
+p;kedagi, keed;keesid
+ill;keesse, kellessegi;keedesse
+in;kees, kelleski;keedes
+el;keest, kellestki;keedest
+all;keele, kellelegi;keedele
+ad;keel, kellelgi;keedel
+abl;keelt, kelleltki;keedelt
+tr;keeks, kellekski;keedeks
+ter;keeni, kellenigi;keedeni
+es;keena, kellenagi;keedena
+ab;keeta, kelletagi;keedeta
+kom;keega, kellegagi;keedega
+n;kes;kes
+g;kelle;kelle, kellede
+p;keda;keda
+ill;kellesse;kelledesse, kellesse
+in;kelles;kelledes, kelles
+el;kellest;kelledest, kellest
+all;kellele;kelledele, kellele
+ad;kel, kellel;kelledel, kellel
+abl;kelt, kellelt;kelledelt, kellelt
+tr;kelleks;kelledeks, kelleks
+ter;kelleni;kelledeni, kelleni
+es;kellena;kelledena, kellena
+ab;kelleta;kelledeta, kelleta
+kom;kellega;kelledega, kellega
+n;kumb;kummad
+g;kumma;kumbade
+p;kumba;kumbi, kumbasid
+ill;kummasse;kumbadesse
+in;kummas;kumbades
+el;kummast;kumbadest
+all;kummale;kumbadele
+ad;kummal;kumbadel
+abl;kummalt;kumbadelt
+tr;kummaks;kumbadeks
+ter;kummani;kumbadeni
+es;kummana;kumbadena
+ab;kummata;kumbadeta
+kom;kummaga;kumbadega
+n;kumbki;
+g;kummagi;
+p;kumbagi;
+ill;kummassegi;
+in;kummaski;
+el;kummastki;
+all;kummalegi;
+ad;kummalgi;
+abl;kummaltki;
+tr;kummakski;
+ter;kummanigi;
+es;kummanagi;
+ab;kummatagi;
+kom;kummagagi;
+n;kõik, kõik;kõigud, kõik
+g;kõige, kõigu;kõigi, kõikide, kõikude
+p;kõike, kõiku;kõike, kõiki, kõikisid, kõikusid
+ill;kõigesse, kõigusse;kõigisse, kõikidesse, kõikudesse
+in;kõiges, kõigus;kõigis, kõikides, kõikudes
+el;kõigest, kõigust;kõigist, kõikidest, kõikudest
+all;kõigele, kõigule;kõigile, kõikidele, kõikudele
+ad;kõigel, kõigul;kõigil, kõikidel, kõikudel
+abl;kõigelt, kõigult;kõigilt, kõikidelt, kõikudelt
+tr;kõigeks, kõiguks;kõigiks, kõikideks, kõikudeks
+ter;kõigeni, kõiguni;kõigini, kõikideni, kõikudeni
+es;kõigena, kõiguna;kõigina, kõikidena, kõikudena
+ab;kõigeta, kõiguta;kõigita, kõikideta, kõikudeta
+kom;kõigega, kõiguga;kõigiga, kõikidega, kõikudega
+n;meiesugune;meiesugused
+g;meiesuguse;meiesuguste
+p;meiesugust;meiesuguseid
+ill;meiesugusesse;meiesugustesse, meiesuguseisse
+in;meiesuguses;meiesugustes, meiesuguseis
+el;meiesugusest;meiesugustest, meiesuguseist
+all;meiesugusele;meiesugustele, meiesuguseile
+ad;meiesugusel;meiesugustel, meiesuguseil
+abl;meiesuguselt;meiesugustelt, meiesuguseilt
+tr;meiesuguseks;meiesugusteks, meiesuguseiks
+ter;meiesuguseni;meiesugusteni, meiesuguseini
+es;meiesugusena;meiesugustena, meiesuguseina
+ab;meiesuguseta;meiesugusteta
+kom;meiesugusega;meiesugustega
+n;meietaoline;meietaolised
+g;meietaolise;meietaoliste
+p;meietaolist;meietaolisi, meietaoliseid
+ill;meietaolisesse;meietaolisisse, meietaolistesse, meietaoliseisse
+in;meietaolises;meietaolisis, meietaolistes, meietaoliseis
+el;meietaolisest;meietaolisist, meietaolistest, meietaoliseist
+all;meietaolisele;meietaolisile, meietaolistele, meietaoliseile
+ad;meietaolisel;meietaolisil, meietaolistel, meietaoliseil
+abl;meietaoliselt;meietaolisilt, meietaolistelt, meietaoliseilt
+tr;meietaoliseks;meietaolisiks, meietaolisteks, meietaoliseiks
+ter;meietaoliseni;meietaolisteni
+es;meietaolisena;meietaolistena
+ab;meietaoliseta;meietaolisteta
+kom;meietaolisega;meietaolistega
+n;midagi;midagid
+g;midagi;midagide
+p;midagit;midagisid
+ill;midagisse;midagidesse
+in;midagis;midagides
+el;midagist;midagidest
+all;midagile;midagidele
+ad;midagil;midagidel
+abl;midagilt;midagidelt
+tr;midagiks;midagideks
+ter;midagini;midagideni
+es;midagina;midagidena
+ab;midagita;midagideta
+kom;midagiga;midagidega
+n;mihuke;mihukesed
+g;mihukese;mihukeste
+p;mihukest;mihukesi
+ill;mihukesesse;mihukesisse, mihukestesse
+in;mihukeses;mihukesis, mihukestes
+el;mihukesest;mihukesist, mihukestest
+all;mihukesele;mihukesile, mihukestele
+ad;mihukesel;mihukesil, mihukestel
+abl;mihukeselt;mihukesilt, mihukestelt
+tr;mihukeseks;mihukesiks, mihukesteks
+ter;mihukeseni;mihukesteni
+es;mihukesena;mihukestena
+ab;mihukeseta;mihukesteta
+kom;mihukesega;mihukestega
+n;mihukene;mihukesed
+g;mihukese;mihukeste
+p;mihukest;mihukesi
+ill;mihukesesse;mihukesisse, mihukestesse
+in;mihukeses;mihukesis, mihukestes
+el;mihukesest;mihukesist, mihukestest
+all;mihukesele;mihukesile, mihukestele
+ad;mihukesel;mihukesil, mihukestel
+abl;mihukeselt;mihukesilt, mihukestelt
+tr;mihukeseks;mihukesiks, mihukesteks
+ter;mihukeseni;mihukesteni
+es;mihukesena;mihukestena
+ab;mihukeseta;mihukesteta
+kom;mihukesega;mihukestega
+n;milletaoline;milletaolised
+g;milletaolise;milletaoliste
+p;milletaolist;milletaolisi, milletaoliseid
+ill;milletaolisesse;milletaolisisse, milletaolistesse, milletaoliseisse
+in;milletaolises;milletaolisis, milletaolistes, milletaoliseis
+el;milletaolisest;milletaolisist, milletaolistest, milletaoliseist
+all;milletaolisele;milletaolisile, milletaolistele, milletaoliseile
+ad;milletaolisel;milletaolisil, milletaolistel, milletaoliseil
+abl;milletaoliselt;milletaolisilt, milletaolistelt, milletaoliseilt
+tr;milletaoliseks;milletaolisiks, milletaolisteks, milletaoliseiks
+ter;milletaoliseni;milletaolisteni
+es;milletaolisena;milletaolistena
+ab;milletaoliseta;milletaolisteta
+kom;milletaolisega;milletaolistega
+n;milline;millised
+g;millise;milliste
+p;millist;milliseid
+ill;millisesse;millistesse, milliseisse
+in;millises;millistes, milliseis
+el;millisest;millistest, milliseist
+all;millisele;millistele, milliseile
+ad;millisel;millistel, milliseil
+abl;milliselt;millistelt, milliseilt
+tr;milliseks;millisteks, milliseiks
+ter;milliseni;millisteni, milliseini
+es;millisena;millistena, milliseina
+ab;milliseta;millisteta
+kom;millisega;millistega
+n;ma, mina, mina;me, meie, minad
+g;mina, minu, mu;me, meie, minade
+p;mind, mina;meid, minasid
+ill;minasse, minusse, musse;meisse, minadesse
+in;minas, minus, mus;meis, minades
+el;minast, minust, must;meist, minadest
+all;minale, minule, mulle;meile, minadele
+ad;minal, minul, mul;meil, minadel
+abl;minalt, minult, mult;meilt, minadelt
+tr;minaks, minuks;meiks, meieks, minadeks
+ter;minani, minuni;meieni, minadeni
+es;minana, minuna;meiena, minadena
+ab;minata, minuta;meieta, minadeta
+kom;minaga, minuga, muga;meiega, minadega
+n;minake;minakesed
+g;minakese;minakeste
+p;minakest;minakesi
+ill;minakesesse;minakesisse, minakestesse
+in;minakeses;minakesis, minakestes
+el;minakesest;minakesist, minakestest
+all;minakesele;minakesile, minakestele
+ad;minakesel;minakesil, minakestel
+abl;minakeselt;minakesilt, minakestelt
+tr;minakeseks;minakesiks, minakesteks
+ter;minakeseni;minakesteni
+es;minakesena;minakestena
+ab;minakeseta;minakesteta
+kom;minakesega;minakestega
+n;mingi;mingid
+g;mingi;mingite
+p;mingit;mingeid
+ill;mingisse;mingeisse, mingitesse
+in;mingis;mingeis, mingites
+el;mingist;mingeist, mingitest
+all;mingile;mingeile, mingitele
+ad;mingil;mingeil, mingitel
+abl;mingilt;mingeilt, mingitelt
+tr;mingiks;mingeiks, mingiteks
+ter;mingini;mingeini, mingiteni
+es;mingina;mingeina, mingitena
+ab;mingita;mingiteta
+kom;mingiga;mingitega
+n;mingisugune;mingisugused
+g;mingisuguse;mingisuguste
+p;mingisugust;mingisuguseid
+ill;mingisugusesse;mingisugustesse, mingisuguseisse
+in;mingisuguses;mingisugustes, mingisuguseis
+el;mingisugusest;mingisugustest, mingisuguseist
+all;mingisugusele;mingisugustele, mingisuguseile
+ad;mingisugusel;mingisugustel, mingisuguseil
+abl;mingisuguselt;mingisugustelt, mingisuguseilt
+tr;mingisuguseks;mingisugusteks, mingisuguseiks
+ter;mingisuguseni;mingisugusteni, mingisuguseini
+es;mingisugusena;mingisugustena, mingisuguseina
+ab;mingisuguseta;mingisugusteta
+kom;mingisugusega;mingisugustega
+n;minusugune;minusugused
+g;minusuguse;minusuguste
+p;minusugust;minusuguseid
+ill;minusugusesse;minusugustesse, minusuguseisse
+in;minusuguses;minusugustes, minusuguseis
+el;minusugusest;minusugustest, minusuguseist
+all;minusugusele;minusugustele, minusuguseile
+ad;minusugusel;minusugustel, minusuguseil
+abl;minusuguselt;minusugustelt, minusuguseilt
+tr;minusuguseks;minusugusteks, minusuguseiks
+ter;minusuguseni;minusugusteni, minusuguseini
+es;minusugusena;minusugustena, minusuguseina
+ab;minusuguseta;minusugusteta
+kom;minusugusega;minusugustega
+n;minutaoline;minutaolised
+g;minutaolise;minutaoliste
+p;minutaolist;minutaolisi, minutaoliseid
+ill;minutaolisesse;minutaolisisse, minutaolistesse, minutaoliseisse
+in;minutaolises;minutaolisis, minutaolistes, minutaoliseis
+el;minutaolisest;minutaolisist, minutaolistest, minutaoliseist
+all;minutaolisele;minutaolisile, minutaolistele, minutaoliseile
+ad;minutaolisel;minutaolisil, minutaolistel, minutaoliseil
+abl;minutaoliselt;minutaolisilt, minutaolistelt, minutaoliseilt
+tr;minutaoliseks;minutaolisiks, minutaolisteks, minutaoliseiks
+ter;minutaoliseni;minutaolisteni
+es;minutaolisena;minutaolistena
+ab;minutaoliseta;minutaolisteta
+kom;minutaolisega;minutaolistega
+n;mis;mis
+g;mille;mille, millede
+p;mida;mida
+ill;millesse;milledesse, millesse
+in;milles;milledes, milles
+el;millest;milledest, millest
+all;millele;milledele, millele
+ad;mil, millel;milledel, millel
+abl;milt, millelt;milledelt, millelt
+tr;milleks;milledeks, milleks
+ter;milleni;milledeni, milleni
+es;millena;milledena, millena
+ab;milleta;milledeta, milleta
+kom;millega;milledega, millega
+n;miski, miski;miskid
+g;millegi, miski;miskite
+p;midagi, miskit;miskeid
+ill;millessegi, miskisse;miskeisse, miskitesse
+in;milleski, miskis;miskeis, miskites
+el;millestki, miskist;miskeist, miskitest
+all;millelegi, miskile;miskeile, miskitele
+ad;millelgi, miskil;miskeil, miskitel
+abl;milleltki, miskilt;miskeilt, miskitelt
+tr;millekski, miskiks;miskeiks, miskiteks
+ter;millenigi, miskini;miskeini, miskiteni
+es;millenagi, miskina;miskeina, miskitena
+ab;milletagi, miskita;miskiteta
+kom;millegagi, miskiga;miskitega
+n;miskisugune;miskisugused
+g;miskisuguse;miskisuguste
+p;miskisugust;miskisuguseid
+ill;miskisugusesse;miskisugustesse, miskisuguseisse
+in;miskisuguses;miskisugustes, miskisuguseis
+el;miskisugusest;miskisugustest, miskisuguseist
+all;miskisugusele;miskisugustele, miskisuguseile
+ad;miskisugusel;miskisugustel, miskisuguseil
+abl;miskisuguselt;miskisugustelt, miskisuguseilt
+tr;miskisuguseks;miskisugusteks, miskisuguseiks
+ter;miskisuguseni;miskisugusteni, miskisuguseini
+es;miskisugusena;miskisugustena, miskisuguseina
+ab;miskisuguseta;miskisugusteta
+kom;miskisugusega;miskisugustega
+n;missugune;missugused
+g;missuguse;missuguste
+p;missugust;missuguseid
+ill;missugusesse;missugustesse, missuguseisse
+in;missuguses;missugustes, missuguseis
+el;missugusest;missugustest, missuguseist
+all;missugusele;missugustele, missuguseile
+ad;missugusel;missugustel, missuguseil
+abl;missuguselt;missugustelt, missuguseilt
+tr;missuguseks;missugusteks, missuguseiks
+ter;missuguseni;missugusteni, missuguseini
+es;missugusena;missugustena, missuguseina
+ab;missuguseta;missugusteta
+kom;missugusega;missugustega
+n;misuke;misukesed
+g;misukese;misukeste
+p;misukest;misukesi
+ill;misukesesse;misukesisse, misukestesse
+in;misukeses;misukesis, misukestes
+el;misukesest;misukesist, misukestest
+all;misukesele;misukesile, misukestele
+ad;misukesel;misukesil, misukestel
+abl;misukeselt;misukesilt, misukestelt
+tr;misukeseks;misukesiks, misukesteks
+ter;misukeseni;misukesteni
+es;misukesena;misukestena
+ab;misukeseta;misukesteta
+kom;misukesega;misukestega
+n;mitmes;mitmendad
+g;mitmenda;mitmendate
+p;mitmendat;mitmendaid
+ill;mitmendasse;mitmendaisse, mitmendatesse
+in;mitmendas;mitmendais, mitmendates
+el;mitmendast;mitmendaist, mitmendatest
+all;mitmendale;mitmendaile, mitmendatele
+ad;mitmendal;mitmendail, mitmendatel
+abl;mitmendalt;mitmendailt, mitmendatelt
+tr;mitmendaks;mitmendaiks, mitmendateks
+ter;mitmendani;mitmendaini, mitmendateni
+es;mitmendana;mitmendaina, mitmendatena
+ab;mitmendata;mitmendateta
+kom;mitmendaga;mitmendatega
+n;mitmesugune;mitmesugused
+g;mitmesuguse;mitmesuguste
+p;mitmesugust;mitmesuguseid
+ill;mitmesugusesse;mitmesugustesse, mitmesuguseisse
+in;mitmesuguses;mitmesugustes, mitmesuguseis
+el;mitmesugusest;mitmesugustest, mitmesuguseist
+all;mitmesugusele;mitmesugustele, mitmesuguseile
+ad;mitmesugusel;mitmesugustel, mitmesuguseil
+abl;mitmesuguselt;mitmesugustelt, mitmesuguseilt
+tr;mitmesuguseks;mitmesugusteks, mitmesuguseiks
+ter;mitmesuguseni;mitmesugusteni, mitmesuguseini
+es;mitmesugusena;mitmesugustena, mitmesuguseina
+ab;mitmesuguseta;mitmesugusteta
+kom;mitmesugusega;mitmesugustega
+n;mittekee;mittekeed
+g;mittekee;mittekeede
+p;mittekeed;mittekeesid
+ill;mittekeesse;mittekeedesse
+in;mittekees;mittekeedes
+el;mittekeest;mittekeedest
+all;mittekeele;mittekeedele
+ad;mittekeel;mittekeedel
+abl;mittekeelt;mittekeedelt
+tr;mittekeeks;mittekeedeks
+ter;mittekeeni;mittekeedeni
+es;mittekeena;mittekeedena
+ab;mittekeeta;mittekeedeta
+kom;mittekeega;mittekeedega
+n;mitu;mitmed
+g;mitme;mitmete
+p;mitut;mitmeid
+ill;mitmesse;mitmeisse, mitmetesse
+in;mitmes;mitmeis, mitmetes
+el;mitmest;mitmeist, mitmetest
+all;mitmele;mitmeile, mitmetele
+ad;mitmel;mitmeil, mitmetel
+abl;mitmelt;mitmeilt, mitmetelt
+tr;mitmeks;mitmeiks, mitmeteks
+ter;mitmeni;mitmeini, mitmeteni
+es;mitmena;mitmeina, mitmetena
+ab;mitmeta;mitmeteta
+kom;mitmega;mitmetega
+n;mitu-mitu;mitu-mitmed
+g;mitu-mitme;mitu-mitmete
+p;mitu-mitut;mitu-mitmeid
+ill;mitu-mitmesse;mitu-mitmeisse, mitu-mitmetesse
+in;mitu-mitmes;mitu-mitmeis, mitu-mitmetes
+el;mitu-mitmest;mitu-mitmeist, mitu-mitmetest
+all;mitu-mitmele;mitu-mitmeile, mitu-mitmetele
+ad;mitu-mitmel;mitu-mitmeil, mitu-mitmetel
+abl;mitu-mitmelt;mitu-mitmeilt, mitu-mitmetelt
+tr;mitu-mitmeks;mitu-mitmeiks, mitu-mitmeteks
+ter;mitu-mitmeni;mitu-mitmeini, mitu-mitmeteni
+es;mitu-mitmena;mitu-mitmeina, mitu-mitmetena
+ab;mitu-mitmeta;mitu-mitmeteta
+kom;mitu-mitmega;mitu-mitmetega
+n;mitu-setu;mitmed-setmed
+g;mitme-setme;mitmete-setmete
+p;mitut-setut;mitmeid-setmeid
+ill;mitmesse-setmesse;mitmeisse-setmeisse, mitmetesse-setmetesse
+in;mitmes-setmes;mitmeis-setmeis, mitmetes-setmetes
+el;mitmest-setmest;mitmeist-setmeist, mitmetest-setmetest
+all;mitmele-setmele;mitmeile-setmeile, mitmetele-setmetele
+ad;mitmel-setmel;mitmeil-setmeil, mitmetel-setmetel
+abl;mitmelt-setmelt;mitmeilt-setmeilt, mitmetelt-setmetelt
+tr;mitmeks-setmeks;mitmeiks-setmeiks, mitmeteks-setmeteks
+ter;mitme-setmeni;mitmete-setmeteni
+es;mitme-setmena;mitmete-setmetena
+ab;mitme-setmeta;mitmete-setmeteta
+kom;mitme-setmega;mitmete-setmetega
+n;muu, muu;muud, muud
+g;muu, muu;muude, muude
+p;muud, muud;muid, muusid, muusid
+ill;muusse, muusse;muisse, muudesse, muudesse
+in;muus, muus;muis, muudes, muudes
+el;muust, muust;muist, muudest, muudest
+all;muule, muule;muile, muudele, muudele
+ad;muul, muul;muil, muudel, muudel
+abl;muult, muult;muilt, muudelt, muudelt
+tr;muuks, muuks;muiks, muudeks, muudeks
+ter;muuni, muuni;muini, muudeni, muudeni
+es;muuna, muuna;muina, muudena, muudena
+ab;muuta, muuta;muudeta, muudeta
+kom;muuga, muuga;muudega, muudega
+n;;mõlemad
+g;mõlema;mõlemate
+p;mõlemat;mõlemaid
+ill;mõlemasse;mõlemaisse, mõlematesse
+in;mõlemas;mõlemais, mõlemates
+el;mõlemast;mõlemaist, mõlematest
+all;mõlemale;mõlemaile, mõlematele
+ad;mõlemal;mõlemail, mõlematel
+abl;mõlemalt;mõlemailt, mõlematelt
+tr;mõlemaks;mõlemaiks, mõlemateks
+ter;mõlemani;mõlemaini, mõlemateni
+es;mõlemana;mõlemaina, mõlematena
+ab;mõlemata;mõlemateta
+kom;mõlemaga;mõlematega
+n;mõnesugune;mõnesugused
+g;mõnesuguse;mõnesuguste
+p;mõnesugust;mõnesuguseid
+ill;mõnesugusesse;mõnesugustesse, mõnesuguseisse
+in;mõnesuguses;mõnesugustes, mõnesuguseis
+el;mõnesugusest;mõnesugustest, mõnesuguseist
+all;mõnesugusele;mõnesugustele, mõnesuguseile
+ad;mõnesugusel;mõnesugustel, mõnesuguseil
+abl;mõnesuguselt;mõnesugustelt, mõnesuguseilt
+tr;mõnesuguseks;mõnesugusteks, mõnesuguseiks
+ter;mõnesuguseni;mõnesugusteni, mõnesuguseini
+es;mõnesugusena;mõnesugustena, mõnesuguseina
+ab;mõnesuguseta;mõnesugusteta
+kom;mõnesugusega;mõnesugustega
+n;mõni;mõned
+g;mõne;mõnede
+p;mõnd, mõnda;mõnesid
+ill;mõnesse;mõnedesse
+in;mõnes;mõnedes
+el;mõnest;mõnedest
+all;mõnele;mõnedele
+ad;mõnel;mõnedel
+abl;mõnelt;mõnedelt
+tr;mõneks;mõnedeks
+ter;mõneni;mõnedeni
+es;mõnena;mõnedena
+ab;mõneta;mõnedeta
+kom;mõnega;mõnedega
+n;mõningane;mõningased
+g;mõningase;mõningaste
+p;mõningast;mõningasi
+ill;mõningasesse;mõningasisse, mõningastesse
+in;mõningases;mõningasis, mõningastes
+el;mõningasest;mõningasist, mõningastest
+all;mõningasele;mõningasile, mõningastele
+ad;mõningasel;mõningasil, mõningastel
+abl;mõningaselt;mõningasilt, mõningastelt
+tr;mõningaseks;mõningasiks, mõningasteks
+ter;mõningaseni;mõningasteni
+es;mõningasena;mõningastena
+ab;mõningaseta;mõningasteta
+kom;mõningasega;mõningastega
+n;mõningas;mõningad
+g;mõninga;mõningate
+p;mõningat;mõningaid
+ill;mõningasse;mõningaisse, mõningatesse
+in;mõningas;mõningais, mõningates
+el;mõningast;mõningaist, mõningatest
+all;mõningale;mõningaile, mõningatele
+ad;mõningal;mõningail, mõningatel
+abl;mõningalt;mõningailt, mõningatelt
+tr;mõningaks;mõningaiks, mõningateks
+ter;mõningani;mõningaini, mõningateni
+es;mõningana;mõningaina, mõningatena
+ab;mõningata;mõningateta
+kom;mõningaga;mõningatega
+n;mäherdune;mäherdused
+g;mäherduse;mäherduste
+p;mäherdust;mäherdusi
+ill;mäherdusesse;mäherdusisse, mäherdustesse
+in;mäherduses;mäherdusis, mäherdustes
+el;mäherdusest;mäherdusist, mäherdustest
+all;mäherdusele;mäherdusile, mäherdustele
+ad;mäherdusel;mäherdusil, mäherdustel
+abl;mäherduselt;mäherdusilt, mäherdustelt
+tr;mäherduseks;mäherdusiks, mäherdusteks
+ter;mäherduseni;mäherdusteni
+es;mäherdusena;mäherdustena
+ab;mäherduseta;mäherdusteta
+kom;mäherdusega;mäherdustega
+n;määrane;määrased
+g;määrase;määraste
+p;määrast;määraseid
+ill;määrasesse;määrastesse, määraseisse
+in;määrases;määrastes, määraseis
+el;määrasest;määrastest, määraseist
+all;määrasele;määrastele, määraseile
+ad;määrasel;määrastel, määraseil
+abl;määraselt;määrastelt, määraseilt
+tr;määraseks;määrasteks, määraseiks
+ter;määraseni;määrasteni, määraseini
+es;määrasena;määrastena, määraseina
+ab;määraseta;määrasteta
+kom;määrasega;määrastega
+n;naasugune;naasugused
+g;naasuguse;naasuguste
+p;naasugust;naasuguseid
+ill;naasugusesse;naasugustesse, naasuguseisse
+in;naasuguses;naasugustes, naasuguseis
+el;naasugusest;naasugustest, naasuguseist
+all;naasugusele;naasugustele, naasuguseile
+ad;naasugusel;naasugustel, naasuguseil
+abl;naasuguselt;naasugustelt, naasuguseilt
+tr;naasuguseks;naasugusteks, naasuguseiks
+ter;naasuguseni;naasugusteni, naasuguseini
+es;naasugusena;naasugustena, naasuguseina
+ab;naasuguseta;naasugusteta
+kom;naasugusega;naasugustega
+n;see;need
+g;selle;nende
+p;seda;neid
+ill;sesse, sellesse;neisse, nendesse
+in;ses, selles;neis, nendes
+el;sest, sellest;neist, nendest
+all;sellele;neile, nendele
+ad;sel, sellel;neil, nendel
+abl;selt, sellelt;neilt, nendelt
+tr;seks, selleks;neiks, nendeks
+ter;selleni;nendeni
+es;sellena;nendena
+ab;selleta;nendeta
+kom;sellega;nendega
+n;ta, tema;nad, nemad
+g;ta, tema;nende
+p;teda;neid
+ill;tasse, temasse;neisse, nendesse
+in;tas, temas;neis, nendes
+el;tast, temast;neist, nendest
+all;talle, temale;neile, nendele
+ad;tal, temal;neil, nendel
+abl;talt, temalt;neilt, nendelt
+tr;temaks;neiks, nendeks
+ter;temani;nendeni
+es;temana;nendena
+ab;temata;nendeta
+kom;temaga;nendega
+n;nendesugune;nendesugused
+g;nendesuguse;nendesuguste
+p;nendesugust;nendesuguseid
+ill;nendesugusesse;nendesugustesse, nendesuguseisse
+in;nendesuguses;nendesugustes, nendesuguseis
+el;nendesugusest;nendesugustest, nendesuguseist
+all;nendesugusele;nendesugustele, nendesuguseile
+ad;nendesugusel;nendesugustel, nendesuguseil
+abl;nendesuguselt;nendesugustelt, nendesuguseilt
+tr;nendesuguseks;nendesugusteks, nendesuguseiks
+ter;nendesuguseni;nendesugusteni, nendesuguseini
+es;nendesugusena;nendesugustena, nendesuguseina
+ab;nendesuguseta;nendesugusteta
+kom;nendesugusega;nendesugustega
+n;nendetaoline;nendetaolised
+g;nendetaolise;nendetaoliste
+p;nendetaolist;nendetaolisi, nendetaoliseid
+ill;nendetaolisesse;nendetaolisisse, nendetaolistesse, nendetaoliseisse
+in;nendetaolises;nendetaolisis, nendetaolistes, nendetaoliseis
+el;nendetaolisest;nendetaolisist, nendetaolistest, nendetaoliseist
+all;nendetaolisele;nendetaolisile, nendetaolistele, nendetaoliseile
+ad;nendetaolisel;nendetaolisil, nendetaolistel, nendetaoliseil
+abl;nendetaoliselt;nendetaolisilt, nendetaolistelt, nendetaoliseilt
+tr;nendetaoliseks;nendetaolisiks, nendetaolisteks, nendetaoliseiks
+ter;nendetaoliseni;nendetaolisteni
+es;nendetaolisena;nendetaolistena
+ab;nendetaoliseta;nendetaolisteta
+kom;nendetaolisega;nendetaolistega
+n;nihuke;nihukesed
+g;nihukese;nihukeste
+p;nihukest;nihukesi
+ill;nihukesesse;nihukesisse, nihukestesse
+in;nihukeses;nihukesis, nihukestes
+el;nihukesest;nihukesist, nihukestest
+all;nihukesele;nihukesile, nihukestele
+ad;nihukesel;nihukesil, nihukestel
+abl;nihukeselt;nihukesilt, nihukestelt
+tr;nihukeseks;nihukesiks, nihukesteks
+ter;nihukeseni;nihukesteni
+es;nihukesena;nihukestena
+ab;nihukeseta;nihukesteta
+kom;nihukesega;nihukestega
+n;nihukene;nihukesed
+g;nihukese;nihukeste
+p;nihukest;nihukesi
+ill;nihukesesse;nihukesisse, nihukestesse
+in;nihukeses;nihukesis, nihukestes
+el;nihukesest;nihukesist, nihukestest
+all;nihukesele;nihukesile, nihukestele
+ad;nihukesel;nihukesil, nihukestel
+abl;nihukeselt;nihukesilt, nihukestelt
+tr;nihukeseks;nihukesiks, nihukesteks
+ter;nihukeseni;nihukesteni
+es;nihukesena;nihukestena
+ab;nihukeseta;nihukesteta
+kom;nihukesega;nihukestega
+n;niimitu;niimitmed
+g;niimitme;niimitmete
+p;niimitut;niimitmeid
+ill;niimitmesse;niimitmeisse, niimitmetesse
+in;niimitmes;niimitmeis, niimitmetes
+el;niimitmest;niimitmeist, niimitmetest
+all;niimitmele;niimitmeile, niimitmetele
+ad;niimitmel;niimitmeil, niimitmetel
+abl;niimitmelt;niimitmeilt, niimitmetelt
+tr;niimitmeks;niimitmeiks, niimitmeteks
+ter;niimitmeni;niimitmeini, niimitmeteni
+es;niimitmena;niimitmeina, niimitmetena
+ab;niimitmeta;niimitmeteta
+kom;niimitmega;niimitmetega
+n;niisamasugune;niisamasugused
+g;niisamasuguse;niisamasuguste
+p;niisamasugust;niisamasuguseid
+ill;niisamasugusesse;niisamasugustesse, niisamasuguseisse
+in;niisamasuguses;niisamasugustes, niisamasuguseis
+el;niisamasugusest;niisamasugustest, niisamasuguseist
+all;niisamasugusele;niisamasugustele, niisamasuguseile
+ad;niisamasugusel;niisamasugustel, niisamasuguseil
+abl;niisamasuguselt;niisamasugustelt, niisamasuguseilt
+tr;niisamasuguseks;niisamasugusteks, niisamasuguseiks
+ter;niisamasuguseni;niisamasugusteni, niisamasuguseini
+es;niisamasugusena;niisamasugustena, niisamasuguseina
+ab;niisamasuguseta;niisamasugusteta
+kom;niisamasugusega;niisamasugustega
+n;niisugune;niisugused
+g;niisuguse;niisuguste
+p;niisugust;niisuguseid
+ill;niisugusesse;niisugustesse, niisuguseisse
+in;niisuguses;niisugustes, niisuguseis
+el;niisugusest;niisugustest, niisuguseist
+all;niisugusele;niisugustele, niisuguseile
+ad;niisugusel;niisugustel, niisuguseil
+abl;niisuguselt;niisugustelt, niisuguseilt
+tr;niisuguseks;niisugusteks, niisuguseiks
+ter;niisuguseni;niisugusteni, niisuguseini
+es;niisugusena;niisugustena, niisuguseina
+ab;niisuguseta;niisugusteta
+kom;niisugusega;niisugustega
+n;nisuke;nisukesed
+g;nisukese;nisukeste
+p;nisukest;nisukesi
+ill;nisukesesse;nisukesisse, nisukestesse
+in;nisukeses;nisukesis, nisukestes
+el;nisukesest;nisukesist, nisukestest
+all;nisukesele;nisukesile, nisukestele
+ad;nisukesel;nisukesil, nisukestel
+abl;nisukeselt;nisukesilt, nisukestelt
+tr;nisukeseks;nisukesiks, nisukesteks
+ter;nisukeseni;nisukesteni
+es;nisukesena;nisukestena
+ab;nisukeseta;nisukesteta
+kom;nisukesega;nisukestega
+n;nisukene;nisukesed
+g;nisukese;nisukeste
+p;nisukest;nisukesi
+ill;nisukesesse;nisukesisse, nisukestesse
+in;nisukeses;nisukesis, nisukestes
+el;nisukesest;nisukesist, nisukestest
+all;nisukesele;nisukesile, nisukestele
+ad;nisukesel;nisukesil, nisukestel
+abl;nisukeselt;nisukesilt, nisukestelt
+tr;nisukeseks;nisukesiks, nisukesteks
+ter;nisukeseni;nisukesteni
+es;nisukesena;nisukestena
+ab;nisukeseta;nisukesteta
+kom;nisukesega;nisukestega
+n;oma, oma, oma, oma;omad, omad, omad
+g;oma, oma, oma;omade, omade, omade
+p;oma, oma, oma;omi, omi, omi, omasid, omasid, omasid
+ill;omasse, omasse, omasse;omisse, omisse, omisse, omadesse, omadesse, omadesse
+in;omas, omas, omas;omis, omis, omis, omades, omades, omades
+el;omast, omast, omast;omist, omist, omist, omadest, omadest, omadest
+all;omale, omale, omale;omile, omile, omile, omadele, omadele, omadele
+ad;omal, omal, omal;omil, omil, omil, omadel, omadel, omadel
+abl;omalt, omalt, omalt;omilt, omilt, omilt, omadelt, omadelt, omadelt
+tr;omaks, omaks, omaks;omiks, omiks, omiks, omadeks, omadeks, omadeks
+ter;omani, omani, omani;omadeni, omadeni, omadeni
+es;omana, omana, omana;omadena, omadena, omadena
+ab;omata, omata, omata;omadeta, omadeta, omadeta
+kom;omaga, omaga, omaga;omadega, omadega, omadega
+n;;
+g;omaenda, omaenese;omaendi, omaeneste
+p;;
+ill;;
+in;;
+el;;
+all;;
+ad;;
+abl;;
+tr;;
+ter;;
+es;;
+ab;;
+kom;;
+n;omasugune;omasugused
+g;omasuguse;omasuguste
+p;omasugust;omasuguseid
+ill;omasugusesse;omasugustesse, omasuguseisse
+in;omasuguses;omasugustes, omasuguseis
+el;omasugusest;omasugustest, omasuguseist
+all;omasugusele;omasugustele, omasuguseile
+ad;omasugusel;omasugustel, omasuguseil
+abl;omasuguselt;omasugustelt, omasuguseilt
+tr;omasuguseks;omasugusteks, omasuguseiks
+ter;omasuguseni;omasugusteni, omasuguseini
+es;omasugusena;omasugustena, omasuguseina
+ab;omasuguseta;omasugusteta
+kom;omasugusega;omasugustega
+n;omataoline;omataolised
+g;omataolise;omataoliste
+p;omataolist;omataolisi, omataoliseid
+ill;omataolisesse;omataolisisse, omataolistesse, omataoliseisse
+in;omataolises;omataolisis, omataolistes, omataoliseis
+el;omataolisest;omataolisist, omataolistest, omataoliseist
+all;omataolisele;omataolisile, omataolistele, omataoliseile
+ad;omataolisel;omataolisil, omataolistel, omataoliseil
+abl;omataoliselt;omataolisilt, omataolistelt, omataoliseilt
+tr;omataoliseks;omataolisiks, omataolisteks, omataoliseiks
+ter;omataoliseni;omataolisteni
+es;omataolisena;omataolistena
+ab;omataoliseta;omataolisteta
+kom;omataolisega;omataolistega
+n;pool, pool, pool;pooled, pooled, poolid
+g;poole, poole, pooli;poolte, poolte, poolide
+p;poolt, poolt, pooli;poole, pooli, pooli, poolisid
+ill;poolesse, poolesse, poolisse;poolisse, poolisse, pooltesse, pooltesse, poolidesse
+in;pooles, pooles, poolis;poolis, poolis, pooltes, pooltes, poolides
+el;poolest, poolest, poolist;poolist, poolist, pooltest, pooltest, poolidest
+all;poolele, poolele, poolile;poolile, poolile, pooltele, pooltele, poolidele
+ad;poolel, poolel, poolil;poolil, poolil, pooltel, pooltel, poolidel
+abl;poolelt, poolelt, poolilt;poolilt, poolilt, pooltelt, pooltelt, poolidelt
+tr;pooleks, pooleks, pooliks;pooliks, pooliks, poolteks, poolteks, poolideks
+ter;pooleni, pooleni, poolini;poolteni, poolteni, poolideni
+es;poolena, poolena, poolina;pooltena, pooltena, poolidena
+ab;pooleta, pooleta, poolita;poolteta, poolteta, poolideta
+kom;poolega, poolega, pooliga;pooltega, pooltega, poolidega
+n;praegune;praegused
+g;praeguse;praeguste
+p;praegust;praegusi, praeguseid
+ill;praegusesse;praegusisse, praegustesse, praeguseisse
+in;praeguses;praegusis, praegustes, praeguseis
+el;praegusest;praegusist, praegustest, praeguseist
+all;praegusele;praegusile, praegustele, praeguseile
+ad;praegusel;praegusil, praegustel, praeguseil
+abl;praeguselt;praegusilt, praegustelt, praeguseilt
+tr;praeguseks;praegusiks, praegusteks, praeguseiks
+ter;praeguseni;praegusteni
+es;praegusena;praegustena
+ab;praeguseta;praegusteta
+kom;praegusega;praegustega
+n;sama;samad
+g;sama;samade
+p;sama;samu, samasid
+ill;samasse;samadesse
+in;samas;samades
+el;samast;samadest
+all;samale;samadele
+ad;samal;samadel
+abl;samalt;samadelt
+tr;samaks;samadeks
+ter;samani;samadeni
+es;samana;samadena
+ab;samata;samadeta
+kom;samaga;samadega
+n;samasugune;samasugused
+g;samasuguse;samasuguste
+p;samasugust;samasuguseid
+ill;samasugusesse;samasugustesse, samasuguseisse
+in;samasuguses;samasugustes, samasuguseis
+el;samasugusest;samasugustest, samasuguseist
+all;samasugusele;samasugustele, samasuguseile
+ad;samasugusel;samasugustel, samasuguseil
+abl;samasuguselt;samasugustelt, samasuguseilt
+tr;samasuguseks;samasugusteks, samasuguseiks
+ter;samasuguseni;samasugusteni, samasuguseini
+es;samasugusena;samasugustena, samasuguseina
+ab;samasuguseta;samasugusteta
+kom;samasugusega;samasugustega
+n;samataoline;samataolised
+g;samataolise;samataoliste
+p;samataolist;samataolisi, samataoliseid
+ill;samataolisesse;samataolisisse, samataolistesse, samataoliseisse
+in;samataolises;samataolisis, samataolistes, samataoliseis
+el;samataolisest;samataolisist, samataolistest, samataoliseist
+all;samataolisele;samataolisile, samataolistele, samataoliseile
+ad;samataolisel;samataolisil, samataolistel, samataoliseil
+abl;samataoliselt;samataolisilt, samataolistelt, samataoliseilt
+tr;samataoliseks;samataolisiks, samataolisteks, samataoliseiks
+ter;samataoliseni;samataolisteni
+es;samataolisena;samataolistena
+ab;samataoliseta;samataolisteta
+kom;samataolisega;samataolistega
+n;see;need
+g;selle;nende
+p;seda;neid
+ill;sesse, sellesse;neisse, nendesse
+in;ses, selles;neis, nendes
+el;sest, sellest;neist, nendest
+all;sellele;neile, nendele
+ad;sel, sellel;neil, nendel
+abl;selt, sellelt;neilt, nendelt
+tr;seks, selleks;neiks, nendeks
+ter;selleni;nendeni
+es;sellena;nendena
+ab;selleta;nendeta
+kom;sellega;nendega
+n;seesama;needsamad
+g;sellesama;nendesamade
+p;sedasama;neidsamu
+ill;sellessesamasse, sessesamasse;neissesamusse, nendessesamadesse
+in;sellessamas, sessamas;neissamus, nendessamades
+el;sellestsamast, sestsamast;neistsamust, nendestsamadest
+all;sellelesamale;nendelesamadele
+ad;sellelsamal, selsamal;neilsamul, nendelsamadel
+abl;selleltsamalt, seltsamalt;neiltsamult, nendeltsamadelt
+tr;sekssamaks, sellekssamaks;neikssamuks, nendekssamadeks
+ter;sellesamani;nendesamadeni
+es;sellesamana;nendesamadena
+ab;sellesamata;nendesamadeta
+kom;sellesamaga;nendesamadega
+n;seesamane;needsamased
+g;sellesamase;nendesamaste
+p;sedasamast;neidsamaseid
+ill;sellessesamasesse, sessesamasesse;neissesamaseisse, nendessesamastesse
+in;sellessamases, sessamases;neissamaseis, nendessamastes
+el;sellestsamasest, sestsamasest;neistsamaseist, nendestsamastest
+all;sellelesamasele;nendelesamastele
+ad;sellelsamasel, selsamasel;neilsamaseil, nendelsamastel
+abl;selleltsamaselt, seltsamaselt;neiltsamaseilt, nendeltsamastelt
+tr;sekssamaseks, sellekssamaseks;neikssamaseiks, nendekssamasteks
+ter;sellesamaseni;nendesamasteni
+es;sellesamasena;nendesamastena
+ab;sellesamaseta;nendesamasteta
+kom;sellesamasega;nendesamastega
+n;seesamune;needsamused
+g;sellesamuse;nendesamuste
+p;sedasamust;neidsamuseid
+ill;sellessesamusesse, sessesamusesse;neissesamuseisse, nendessesamustesse
+in;sellessamuses, sessamuses;neissamuseis, nendessamustes
+el;sellestsamusest, sestsamusest;neistsamuseist, nendestsamustest
+all;sellelesamusele;nendelesamustele
+ad;sellelsamusel, selsamusel;neilsamuseil, nendelsamustel
+abl;selleltsamuselt, seltsamuselt;neiltsamuseilt, nendeltsamustelt
+tr;sekssamuseks, sellekssamuseks;neikssamuseiks, nendekssamusteks
+ter;sellesamuseni;nendesamusteni
+es;sellesamusena;nendesamustena
+ab;sellesamuseta;nendesamusteta
+kom;sellesamusega;nendesamustega
+n;seesinane;needsinased, needsinatsed
+g;sellesinase, sellesinatse;nendesinaste
+p;sedasinast;neidsinaseid, neidsinatseid
+ill;sellessesinasesse, sellessesinatsesse, sessesinasesse, sessesinatsesse;neissesinaseisse, nendessesinastesse
+in;sellessinases, sellessinatses, sessinases, sessinatses;neissinaseis, nendessinastes
+el;sellestsinasest, sellestsinatsest, sestsinasest, sestsinatsest;neistsinaseist, nendestsinastest
+all;sellelesinasele, sellelesinatsele;nendelesinastele
+ad;sellelsinasel, sellelsinatsel, selsinasel, selsinatsel;neilsinaseil, nendelsinastel
+abl;selleltsinaselt, selleltsinatselt, seltsinaselt, seltsinatselt;neiltsinaseilt, nendeltsinastelt
+tr;sekssinaseks, sekssinatseks, sellekssinaseks, sellekssinatseks;neikssinaseiks, nendekssinasteks
+ter;sellesinaseni, sellesinatseni;nendesinasteni
+es;sellesinasena, sellesinatsena;nendesinastena
+ab;sellesinaseta, sellesinatseta;nendesinasteta
+kom;sellesinasega, sellesinatsega;nendesinastega
+n;seesugune;seesugused
+g;seesuguse;seesuguste
+p;seesugust;seesuguseid
+ill;seesugusesse;seesugustesse, seesuguseisse
+in;seesuguses;seesugustes, seesuguseis
+el;seesugusest;seesugustest, seesuguseist
+all;seesugusele;seesugustele, seesuguseile
+ad;seesugusel;seesugustel, seesuguseil
+abl;seesuguselt;seesugustelt, seesuguseilt
+tr;seesuguseks;seesugusteks, seesuguseiks
+ter;seesuguseni;seesugusteni, seesuguseini
+es;seesugusena;seesugustena, seesuguseina
+ab;seesuguseta;seesugusteta
+kom;seesugusega;seesugustega
+n;selline;sellised
+g;sellise;selliste
+p;sellist;selliseid
+ill;sellisesse;sellistesse, selliseisse
+in;sellises;sellistes, selliseis
+el;sellisest;sellistest, selliseist
+all;sellisele;sellistele, selliseile
+ad;sellisel;sellistel, selliseil
+abl;selliselt;sellistelt, selliseilt
+tr;selliseks;sellisteks, selliseiks
+ter;selliseni;sellisteni, selliseini
+es;sellisena;sellistena, selliseina
+ab;selliseta;sellisteta
+kom;sellisega;sellistega
+n;sihuke;sihukesed
+g;sihukese;sihukeste
+p;sihukest;sihukesi
+ill;sihukesesse;sihukesisse, sihukestesse
+in;sihukeses;sihukesis, sihukestes
+el;sihukesest;sihukesist, sihukestest
+all;sihukesele;sihukesile, sihukestele
+ad;sihukesel;sihukesil, sihukestel
+abl;sihukeselt;sihukesilt, sihukestelt
+tr;sihukeseks;sihukesiks, sihukesteks
+ter;sihukeseni;sihukesteni
+es;sihukesena;sihukestena
+ab;sihukeseta;sihukesteta
+kom;sihukesega;sihukestega
+n;sihukene;sihukesed
+g;sihukese;sihukeste
+p;sihukest;sihukesi
+ill;sihukesesse;sihukesisse, sihukestesse
+in;sihukeses;sihukesis, sihukestes
+el;sihukesest;sihukesist, sihukestest
+all;sihukesele;sihukesile, sihukestele
+ad;sihukesel;sihukesil, sihukestel
+abl;sihukeselt;sihukesilt, sihukestelt
+tr;sihukeseks;sihukesiks, sihukesteks
+ter;sihukeseni;sihukesteni
+es;sihukesena;sihukestena
+ab;sihukeseta;sihukesteta
+kom;sihukesega;sihukestega
+n;sa, sina, sina;sinad, te, teie
+g;sina, sinu, su;sinade, te, teie
+p;sind, sina;sinasid, teid
+ill;sinasse, sinusse, susse;sinadesse, teisse
+in;sinas, sinus, sus;sinades, teis
+el;sinast, sinust, sust;sinadest, teist
+all;sinale, sinule, sulle;sinadele, teile
+ad;sinal, sinul, sul;sinadel, teil
+abl;sinalt, sinult, sult;sinadelt, teilt
+tr;sinaks, sinuks;sinadeks, teieks
+ter;sinani, sinuni;sinadeni, teieni
+es;sinana, sinuna;sinadena, teiena
+ab;sinata, sinuta;sinadeta, teieta
+kom;sinaga, sinuga;sinadega, teiega
+n;sinusugune;sinusugused
+g;sinusuguse;sinusuguste
+p;sinusugust;sinusuguseid
+ill;sinusugusesse;sinusugustesse, sinusuguseisse
+in;sinusuguses;sinusugustes, sinusuguseis
+el;sinusugusest;sinusugustest, sinusuguseist
+all;sinusugusele;sinusugustele, sinusuguseile
+ad;sinusugusel;sinusugustel, sinusuguseil
+abl;sinusuguselt;sinusugustelt, sinusuguseilt
+tr;sinusuguseks;sinusugusteks, sinusuguseiks
+ter;sinusuguseni;sinusugusteni, sinusuguseini
+es;sinusugusena;sinusugustena, sinusuguseina
+ab;sinusuguseta;sinusugusteta
+kom;sinusugusega;sinusugustega
+n;sinutaoline;sinutaolised
+g;sinutaolise;sinutaoliste
+p;sinutaolist;sinutaolisi, sinutaoliseid
+ill;sinutaolisesse;sinutaolisisse, sinutaolistesse, sinutaoliseisse
+in;sinutaolises;sinutaolisis, sinutaolistes, sinutaoliseis
+el;sinutaolisest;sinutaolisist, sinutaolistest, sinutaoliseist
+all;sinutaolisele;sinutaolisile, sinutaolistele, sinutaoliseile
+ad;sinutaolisel;sinutaolisil, sinutaolistel, sinutaoliseil
+abl;sinutaoliselt;sinutaolisilt, sinutaolistelt, sinutaoliseilt
+tr;sinutaoliseks;sinutaolisiks, sinutaolisteks, sinutaoliseiks
+ter;sinutaoliseni;sinutaolisteni
+es;sinutaolisena;sinutaolistena
+ab;sinutaoliseta;sinutaolisteta
+kom;sinutaolisega;sinutaolistega
+n;siuke;siukesed
+g;siukese;siukeste
+p;siukest;siukesi
+ill;siukesesse;siukesisse, siukestesse
+in;siukeses;siukesis, siukestes
+el;siukesest;siukesist, siukestest
+all;siukesele;siukesile, siukestele
+ad;siukesel;siukesil, siukestel
+abl;siukeselt;siukesilt, siukestelt
+tr;siukeseks;siukesiks, siukesteks
+ter;siukeseni;siukesteni
+es;siukesena;siukestena
+ab;siukeseta;siukesteta
+kom;siukesega;siukestega
+n;siukene;siukesed
+g;siukese;siukeste
+p;siukest;siukesi
+ill;siukesesse;siukesisse, siukestesse
+in;siukeses;siukesis, siukestes
+el;siukesest;siukesist, siukestest
+all;siukesele;siukesile, siukestele
+ad;siukesel;siukesil, siukestel
+abl;siukeselt;siukesilt, siukestelt
+tr;siukeseks;siukesiks, siukesteks
+ter;siukeseni;siukesteni
+es;siukesena;siukestena
+ab;siukeseta;siukesteta
+kom;siukesega;siukestega
+n;säherdune;säherdused
+g;säherduse;säherduste
+p;säherdust;säherdusi
+ill;säherdusesse;säherdusisse, säherdustesse
+in;säherduses;säherdusis, säherdustes
+el;säherdusest;säherdusist, säherdustest
+all;säherdusele;säherdusile, säherdustele
+ad;säherdusel;säherdusil, säherdustel
+abl;säherduselt;säherdusilt, säherdustelt
+tr;säherduseks;säherdusiks, säherdusteks
+ter;säherduseni;säherdusteni
+es;säherdusena;säherdustena
+ab;säherduseta;säherdusteta
+kom;säherdusega;säherdustega
+n;säärane;säärased
+g;säärase;sääraste
+p;säärast;sääraseid
+ill;säärasesse;säärastesse, sääraseisse
+in;säärases;säärastes, sääraseis
+el;säärasest;säärastest, sääraseist
+all;säärasele;säärastele, sääraseile
+ad;säärasel;säärastel, sääraseil
+abl;sääraselt;säärastelt, sääraseilt
+tr;sääraseks;säärasteks, sääraseiks
+ter;sääraseni;säärasteni, sääraseini
+es;säärasena;säärastena, sääraseina
+ab;sääraseta;säärasteta
+kom;säärasega;säärastega
+n;taoline, taoline;taolised, taolised
+g;taolise, taolise;taoliste, taoliste
+p;taolist, taolist;taolisi, taolisi, taoliseid
+ill;taolisesse, taolisesse;taolisisse, taolisisse, taolistesse, taolistesse, taoliseisse
+in;taolises, taolises;taolisis, taolisis, taolistes, taolistes, taoliseis
+el;taolisest, taolisest;taolisist, taolisist, taolistest, taolistest, taoliseist
+all;taolisele, taolisele;taolisile, taolisile, taolistele, taolistele, taoliseile
+ad;taolisel, taolisel;taolisil, taolisil, taolistel, taolistel, taoliseil
+abl;taoliselt, taoliselt;taolisilt, taolisilt, taolistelt, taolistelt, taoliseilt
+tr;taoliseks, taoliseks;taolisiks, taolisiks, taolisteks, taolisteks, taoliseiks
+ter;taoliseni, taoliseni;taolisteni, taolisteni
+es;taolisena, taolisena;taolistena, taolistena
+ab;taoliseta, taoliseta;taolisteta, taolisteta
+kom;taolisega, taolisega;taolistega, taolistega
+n;teiesugune;teiesugused
+g;teiesuguse;teiesuguste
+p;teiesugust;teiesuguseid
+ill;teiesugusesse;teiesugustesse, teiesuguseisse
+in;teiesuguses;teiesugustes, teiesuguseis
+el;teiesugusest;teiesugustest, teiesuguseist
+all;teiesugusele;teiesugustele, teiesuguseile
+ad;teiesugusel;teiesugustel, teiesuguseil
+abl;teiesuguselt;teiesugustelt, teiesuguseilt
+tr;teiesuguseks;teiesugusteks, teiesuguseiks
+ter;teiesuguseni;teiesugusteni, teiesuguseini
+es;teiesugusena;teiesugustena, teiesuguseina
+ab;teiesuguseta;teiesugusteta
+kom;teiesugusega;teiesugustega
+n;teine, teine;teised, teised
+g;teise, teise;teiste, teiste
+p;teist, teist;teisi, teisi
+ill;teisesse, teisesse;teistesse, teistesse
+in;teises, teises;teistes, teistes
+el;teisest, teisest;teistest, teistest
+all;teisele, teisele;teistele, teistele
+ad;teisel, teisel;teistel, teistel
+abl;teiselt, teiselt;teistelt, teistelt
+tr;teiseks, teiseks;teisteks, teisteks
+ter;teiseni, teiseni;teisteni, teisteni
+es;teisena, teisena;teistena, teistena
+ab;teiseta, teiseta;teisteta, teisteta
+kom;teisega, teisega;teistega, teistega
+n;teistsugune;teistsugused
+g;teistsuguse;teistsuguste
+p;teistsugust;teistsuguseid
+ill;teistsugusesse;teistsugustesse, teistsuguseisse
+in;teistsuguses;teistsugustes, teistsuguseis
+el;teistsugusest;teistsugustest, teistsuguseist
+all;teistsugusele;teistsugustele, teistsuguseile
+ad;teistsugusel;teistsugustel, teistsuguseil
+abl;teistsuguselt;teistsugustelt, teistsuguseilt
+tr;teistsuguseks;teistsugusteks, teistsuguseiks
+ter;teistsuguseni;teistsugusteni, teistsuguseini
+es;teistsugusena;teistsugustena, teistsuguseina
+ab;teistsuguseta;teistsugusteta
+kom;teistsugusega;teistsugustega
+n;ta, tema;nad, nemad
+g;ta, tema;nende
+p;teda;neid
+ill;tasse, temasse;neisse, nendesse
+in;tas, temas;neis, nendes
+el;tast, temast;neist, nendest
+all;talle, temale;neile, nendele
+ad;tal, temal;neil, nendel
+abl;talt, temalt;neilt, nendelt
+tr;temaks;neiks, nendeks
+ter;temani;nendeni
+es;temana;nendena
+ab;temata;nendeta
+kom;temaga;nendega
+n;temake;temakesed
+g;temakese;temakeste
+p;temakest;temakesi
+ill;temakesesse;temakesisse, temakestesse
+in;temakeses;temakesis, temakestes
+el;temakesest;temakesist, temakestest
+all;temakesele;temakesile, temakestele
+ad;temakesel;temakesil, temakestel
+abl;temakeselt;temakesilt, temakestelt
+tr;temakeseks;temakesiks, temakesteks
+ter;temakeseni;temakesteni
+es;temakesena;temakestena
+ab;temakeseta;temakesteta
+kom;temakesega;temakestega
+n;temakene;temakesed
+g;temakese;temakeste
+p;temakest;temakesi
+ill;temakesesse;temakesisse, temakestesse
+in;temakeses;temakesis, temakestes
+el;temakesest;temakesist, temakestest
+all;temakesele;temakesile, temakestele
+ad;temakesel;temakesil, temakestel
+abl;temakeselt;temakesilt, temakestelt
+tr;temakeseks;temakesiks, temakesteks
+ter;temakeseni;temakesteni
+es;temakesena;temakestena
+ab;temakeseta;temakesteta
+kom;temakesega;temakestega
+n;temasugune;temasugused
+g;temasuguse;temasuguste
+p;temasugust;temasuguseid
+ill;temasugusesse;temasugustesse, temasuguseisse
+in;temasuguses;temasugustes, temasuguseis
+el;temasugusest;temasugustest, temasuguseist
+all;temasugusele;temasugustele, temasuguseile
+ad;temasugusel;temasugustel, temasuguseil
+abl;temasuguselt;temasugustelt, temasuguseilt
+tr;temasuguseks;temasugusteks, temasuguseiks
+ter;temasuguseni;temasugusteni, temasuguseini
+es;temasugusena;temasugustena, temasuguseina
+ab;temasuguseta;temasugusteta
+kom;temasugusega;temasugustega
+n;temataoline;temataolised
+g;temataolise;temataoliste
+p;temataolist;temataolisi, temataoliseid
+ill;temataolisesse;temataolisisse, temataolistesse, temataoliseisse
+in;temataolises;temataolisis, temataolistes, temataoliseis
+el;temataolisest;temataolisist, temataolistest, temataoliseist
+all;temataolisele;temataolisile, temataolistele, temataoliseile
+ad;temataolisel;temataolisil, temataolistel, temataoliseil
+abl;temataoliselt;temataolisilt, temataolistelt, temataoliseilt
+tr;temataoliseks;temataolisiks, temataolisteks, temataoliseiks
+ter;temataoliseni;temataolisteni
+es;temataolisena;temataolistena
+ab;temataoliseta;temataolisteta
+kom;temataolisega;temataolistega
+n;too;nood
+g;tolle;nonde
+p;toda;noid
+ill;tosse, tollesse;noisse, nondesse
+in;tos, tolles;nois, nondes
+el;tost, tollest;noist, nondest
+all;tollele;noile, nondele
+ad;tol, tollel;noil, nondel
+abl;tolt, tollelt;noilt, nondelt
+tr;tolleks;nondeks
+ter;tolleni;nondeni
+es;tollena;nondena
+ab;tolleta;nondeta
+kom;tollega;nondega
+n;toosama;noodsamad
+g;tollesama;nondesamade
+p;todasama;noidsamu
+ill;tollessesamasse;noissesamusse, nondessesamadesse
+in;tollessamas;noissamus, nondessamades
+el;tollestsamast;noistsamust, nondestsamadest
+all;tollelesamale;nondelesamadele
+ad;tollelsamal, tolsamal;noilsamul, nondelsamadel
+abl;tolleltsamalt;noiltsamult, nondeltsamadelt
+tr;tollekssamaks;noikssamuks, nondekssamadeks
+ter;tollesamani;nondesamadeni
+es;tollesamana;nondesamadena
+ab;tollesamata;nondesamadeta
+kom;tollesamaga;nondesamadega
+n;toosamane;toosamased
+g;toosamase;toosamaste
+p;toosamast;toosamaseid
+ill;toosamasesse;toosamastesse, toosamaseisse
+in;toosamases;toosamastes, toosamaseis
+el;toosamasest;toosamastest, toosamaseist
+all;toosamasele;toosamastele, toosamaseile
+ad;toosamasel;toosamastel, toosamaseil
+abl;toosamaselt;toosamastelt, toosamaseilt
+tr;toosamaseks;toosamasteks, toosamaseiks
+ter;toosamaseni;toosamasteni, toosamaseini
+es;toosamasena;toosamastena, toosamaseina
+ab;toosamaseta;toosamasteta
+kom;toosamasega;toosamastega
+n;üks, üks;ühed, ühed
+g;ühe, ühe;ühtede, ühtede
+p;üht, üht, ühte, ühte;ühtesid, ühtesid
+ill;ühesse, ühesse;ühtedesse, ühtedesse
+in;ühes, ühes;ühtedes, ühtedes
+el;ühest, ühest;ühtedest, ühtedest
+all;ühele, ühele;ühtedele, ühtedele
+ad;ühel, ühel;ühtedel, ühtedel
+abl;ühelt, ühelt;ühtedelt, ühtedelt
+tr;üheks, üheks;ühtedeks, ühtedeks
+ter;üheni, üheni;ühtedeni, ühtedeni
+es;ühena, ühena;ühtedena, ühtedena
+ab;üheta, üheta;ühtedeta, ühtedeta
+kom;ühega, ühega;ühtedega, ühtedega
+n;;üksteised
+g;üksteise;üksteiste
+p;üksteist;üksteisi
+ill;üksteisesse;üksteistesse
+in;üksteises;üksteistes
+el;üksteisest;üksteistest
+all;üksteisele;üksteistele
+ad;üksteisel;üksteistel
+abl;üksteiselt;üksteistelt
+tr;üksteiseks;üksteisteks
+ter;üksteiseni;üksteisteni
+es;üksteisena;üksteistena
+ab;üksteiseta;üksteisteta
+kom;üksteisega;üksteistega
