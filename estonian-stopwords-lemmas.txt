@@ -1592,6 +1592,9 @@ toosama
 toosamane
 üks
 üksteise
+selletaoline
+esimene
+mittekeegi
 hakkama
 minema
 olema
